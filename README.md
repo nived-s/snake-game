@@ -1,2 +1,2 @@
 # snake-game
-A simple snake game using tutle module in Python.
+A simple snake game using turtle module in Python.
